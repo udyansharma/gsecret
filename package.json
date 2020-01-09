@@ -1,0 +1,22 @@
+{
+  "name": "gsecret",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udyansharma/gsecret.git"
+  },
+  "author": "udyansharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udyansharma/gsecret/issues"
+  },
+  "homepage": "https://github.com/udyansharma/gsecret#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
